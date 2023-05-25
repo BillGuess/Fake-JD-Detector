@@ -7,6 +7,10 @@
 * [data_observation_splitting.ipynb](data_observation_splitting.ipynb) - data analysis and split data to training set and validation set
 * [model_training_validation.ipynb](model_training_validation.ipynb) - build model and validation
 
+## How to execute
+1. Prepare
+    1.  
+
 ## Questions:
 
 1. Readme with the following question
