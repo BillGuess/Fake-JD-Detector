@@ -3,7 +3,11 @@
 ## Task Goal
 * Build a system to predict whether a JD is fake or not (Deep learning solution is better)
 
-## Repo Outline:
+## Files
+* [data_observation_splitting.ipynb](data_observation_splitting.ipynb) - data analysis and split data to training set and validation set
+* [model_training_validation.ipynb](model_training_validation.ipynb) - build model and validation
+
+## Questions:
 
 1. Readme with the following question
     1. How to run your code?
@@ -13,3 +17,6 @@
     5. Briefly describe what's the metrics will you use for the prediction model and why? What number will you set as the baseline?
 2. Training model
     - All code you used for training your model (Include how you serialize the model)
+
+## References
+* 
