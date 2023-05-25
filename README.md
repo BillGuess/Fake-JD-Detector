@@ -5,7 +5,7 @@
 
 ## Files
 * [data_observation_splitting.ipynb](data_observation_splitting.ipynb) - data analysis and split data to training set and validation set
-* [model_training_validation.ipynb](model_training_validation.ipynb) - build fine-tuied BERT model and validation model
+* [model_training_validation.ipynb](model_training_validation.ipynb) - build fine-tuned BERT model and validation model
 
 ## How to execute on Google colab
 1. Do some prepare on your Google drive
