@@ -7,9 +7,12 @@
 * [data_observation_splitting.ipynb](data_observation_splitting.ipynb) - data analysis and split data to training set and validation set
 * [model_training_validation.ipynb](model_training_validation.ipynb) - build model and validation
 
-## How to execute
-1. Prepare
-    1.  
+## How to execute on Google colab
+1. Do some prepare on your Google drive
+    1. Create folder for dataset, splitted training data, validation data, model
+    2. Create folder for testing data, if you want
+2. Run ipynb file on Google colab
+    1. Don't forget mount your drive on colab
 
 ## Questions:
 
