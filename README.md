@@ -14,6 +14,9 @@
 2. Run ipynb file on Google colab
     1. Don't forget mount your drive on colab
 
+## Brief summary
+Combine six text type columns as feature for fine-tuning BERT classification model, finally we get a model which is 100% accuracy, 100% recall on validation data
+
 ## Questions:
 
 1. Readme with the following question
