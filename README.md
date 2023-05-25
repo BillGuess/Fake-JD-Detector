@@ -3,6 +3,9 @@
 ## Task Goal
 * Build a system to predict whether a JD is fake or not (Deep learning solution is better)
 
+## Brief summary
+Combine six text type columns as feature for fine-tuning BERT classification model, finally we get a model which is 100% accuracy, 100% recall on validation data
+
 ## Files
 * [data_observation_splitting.ipynb](data_observation_splitting.ipynb) - data analysis and split data to training set and validation set
 * [model_training_validation.ipynb](model_training_validation.ipynb) - build fine-tuned BERT model and validation model
@@ -14,11 +17,7 @@
 2. Run ipynb file on Google colab
     1. Don't forget mount your drive on colab
 
-## Brief summary
-Combine six text type columns as feature for fine-tuning BERT classification model, finally we get a model which is 100% accuracy, 100% recall on validation data
-
-## Questions:
-
+## Questions
 1. Readme with the following question
     1. How to run your code?
     2. Write down what kind of ML solution will you use for this task.
