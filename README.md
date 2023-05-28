@@ -32,11 +32,19 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
 ## Method
 ### Used model
 A fine-tune BERT model for classification task, classifies job-postings is fake or not
-* Observation of data text length and references, text length and words in text are perhaps key features
+* Observation of data text length (fake-job-postings usually has short text length than 2000) and references, text length and words in text are perhaps key features
 * Unbalanced data may cause traditional ML fail, however DL can achieve good by using small data transfer learning
 
 ### Metrics
+Accuracy, recall, precision are used as metrics to measure performance
+* Because of unbalanced data, accuracy may not be of reference value and recall may be more important
+* Straightforward metrics are easier to explain and understand
+
 ### Baseline
+Using company_profile is empty or not to predict as baseline
+* Accuracy: 0.83, recall: 0.67, precision: 0.17
+* More detail, see [data_observation_splitting.ipynb](data_observation_splitting.ipynb)
+
 ### Performance
 
 ## References
