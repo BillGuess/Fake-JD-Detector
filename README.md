@@ -48,7 +48,7 @@ Using company_profile is empty or not to predict as baseline
 ### Performance
 I split data to 80% training and 20% validation
 * Training: Accuracy: 0.98, recall: 0.83, precision: 0.83
-* validation Accuracy: 0.97, recall: 0.48, precision: 0.92
+* Validation Accuracy: 0.97, recall: 0.48, precision: 0.92
  
 ## References
 * [kaggle: Real/Fake Job Posting Prediction](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
