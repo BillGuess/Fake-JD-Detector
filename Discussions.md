@@ -11,8 +11,9 @@ Computing resources limit the size of each training data
 * I limited batch size and used smaple data, than increased runs of training
 * 
 ## Ideas for improvement performance
-### 
-###
+### More complex loss function
+### Add other features
+### A hybrid model combine ML and DL
 ## What I learned in this task
 ### Transformer
 ### Self-attention
