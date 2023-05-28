@@ -19,7 +19,7 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
 ## Files
 * [data_observation_splitting.ipynb](data_observation_splitting.ipynb) - data observation and split data to training and validation
 * [model_training_validation.ipynb](model_training_validation.ipynb) - build fine-tuned BERT model and validation model
-* [report.md](report.md) - a report for task, including answering
+* [report.md](report.md) - a report for task, discussions about this task
 
 ## How to Execute on Google Colab
 1. Do some prepare on your Google drive
@@ -29,8 +29,10 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
     1. Don't forget mount your drive on colab
     2. Pay attention to comments in the notebook
 
-## Used method
-Fine-tune BERT model for classification task, it can classify job-postings is fake or not
+## Method
+A fine-tune BERT model for classification task, classifies job-postings is fake or not
+
+## Performance
 
 ## References
 * [kaggle: Real/Fake Job Posting Prediction](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
