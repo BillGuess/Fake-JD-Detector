@@ -6,15 +6,25 @@ The first bottlenecks I had met, long text will cause error
 * A more effective approach should be improved from feature engineering, like filter URL, it need more referrnces
   * [BERT: How to Handle Long Documents](https://www.saltdatalabs.com/blog/bert-how-to-handle-long-documents)
   * [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
+
 ### Computing resource
 Computing resources limit the size of each training data
 * I limited batch size and used smaple data, than increased runs of training
-* 
+
 ## Ideas for improvement performance
+Here I has some idea to improvement performance
 ### More complex loss function
+* The loss function I used is only consider accuracy
+* Recall, precision, text similarity should be considered
+
 ### Add other features
+* Add categorical flag like "company_profile_null" to input text, let the fake-job-posting text with same pattern
+
 ### A hybrid model combine ML and DL
+* Add a fully connected layer with input are feature and text embedding
+
 ## What I learned in this task
+In order to do this task, I also learned a lot of knowledge
 ### Transformer
 ### Self-attention
 ## Design a framework for production
