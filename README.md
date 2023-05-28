@@ -30,9 +30,14 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
     2. Pay attention to comments in the notebook
 
 ## Method
+### Used model
 A fine-tune BERT model for classification task, classifies job-postings is fake or not
+* Observation of data text length and references, text length and words in text are perhaps key features
+* Unbalanced data may cause traditional ML fail, however DL can achieve good by using small data transfer learning
 
-## Performance
+### Metrics
+### Baseline
+### Performance
 
 ## References
 * [kaggle: Real/Fake Job Posting Prediction](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
