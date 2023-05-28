@@ -46,7 +46,10 @@ Using company_profile is empty or not to predict as baseline
 * More detail, see [data_observation_splitting.ipynb](data_observation_splitting.ipynb)
 
 ### Performance
-
+I split data to 80% training and 20% validation
+* Training: Accuracy: 0.98, recall: 0.83, precision: 0.83
+* validation Accuracy: 0.97, recall: 0.48, precision: 0.92
+ 
 ## References
 * [kaggle: Real/Fake Job Posting Prediction](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
 * [進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
