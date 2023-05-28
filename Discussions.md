@@ -30,6 +30,8 @@ In order to do this task, I also learned a lot of knowledge
 ### Transformer
 ### Self-attention
 ## Design a framework for production
+![image](https://github.com/BillGuess/Fake-JD-Detector/assets/87471415/1941eb89-49e8-4b94-ad67-9058a2350b79)
+
 ## References
 * [BERT: How to Handle Long Documents](https://www.saltdatalabs.com/blog/bert-how-to-handle-long-documents)
 * [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
