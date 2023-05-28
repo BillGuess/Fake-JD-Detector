@@ -22,7 +22,7 @@ Here I has some idea to improvement performance
 
 ### A hybrid model combine ML and DL
 * Add a fully connected layer with input are feature and text embedding
-* ![image](https://github.com/BillGuess/Fake-JD-Detector/assets/87471415/e967f36c-65cd-4bc5-b71e-bf37d505dc29)
+![image](https://github.com/BillGuess/Fake-JD-Detector/assets/87471415/e967f36c-65cd-4bc5-b71e-bf37d505dc29)
 
 
 ## What I learned in this task
