@@ -36,7 +36,7 @@ A fine-tune BERT model for classification task, classifies job-postings is fake 
 * Unbalanced data may cause traditional ML fail, however DL can achieve good by using small data transfer learning
 
 ### Metrics
-Accuracy, recall, precision are used as metrics to measure performance
+Accuracy, recall, precision are used as metrics to measure model performance
 * Because of unbalanced data, accuracy may not be of reference value and recall may be more important
 * Straightforward metrics are easier to explain and understand
 
